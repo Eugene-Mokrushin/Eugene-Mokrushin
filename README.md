@@ -21,5 +21,3 @@ I am Mokrushin Evgeniy. A Full Stack Web Developer which for some reason had a B
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 </div>
-
-## 🌐 My Website - <a href="https://eugenemk.com/">Click!</a>
