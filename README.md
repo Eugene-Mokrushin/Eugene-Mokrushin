@@ -1,9 +1,6 @@
 # Hello there! 🧔🏼‍♂️
 
 I am Mokrushin Evgeniy. A Full Stack Web Developer which for some reason had a BBA degree. I spent most of the time learning new things and trying not to lose to AIs (we all aready lost).
-
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Eugene-Mokrushin&show_icons=true&theme=cobalt" />
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-mokrushin&layout=compact" />
  
 <div display="flex">
 <img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
