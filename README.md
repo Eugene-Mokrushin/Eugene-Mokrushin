@@ -1,4 +1,4 @@
-# Hello there! 🧔🏼‍♂️🖋️
+# Hello there! 🧔🏼‍♂️🪄
 
 I am Mokrushin Evgeniy. A Full Stack Web Developer which for some reason had a BBA degree. I spent most of the time learning new things and trying not to lose to AIs (we all aready lost).
  
